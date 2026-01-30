@@ -1,0 +1,10 @@
+<curses>
+	<curse id="1" name="Klątwa Ciemności!" />
+	<curse id="2" name="Klątwa Labiryntu!" />
+	<curse id="3" name="Klątwa Straconego!" />
+	<curse id="4" name="Klątwa Nieznanego!" />
+	<curse id="5" name="Klątwa Przeklętych!" />
+	<curse id="6" name="Klątwa Powikłania!" />
+	<curse id="7" name="Klątwa Ślepoty!" />
+	<curse id="8" name="Klątwa Dużości!" />
+</curses>

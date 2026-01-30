@@ -1,0 +1,20 @@
+<minibosses>
+	<miniboss id="0" name="Gnuśność" />
+	<miniboss id="1" name="Cielesność" />
+	<miniboss id="2" name="Oburzenie" />
+	<miniboss id="3" name="Żarłoczność" />
+	<miniboss id="4" name="Zachłanność" />
+	<miniboss id="5" name="Zazdrość" />
+	<miniboss id="6" name="Hardość" />
+	
+	<miniboss id="7" name="Super Gnuśność" />
+	<miniboss id="8" name="Super Cielesność" />
+	<miniboss id="9" name="Super Oburzenie" />
+	<miniboss id="10" name="Super Żarłoczność" />
+	<miniboss id="11" name="Super Zachłanność" />
+	<miniboss id="12" name="Super Zazdrość" />
+	<miniboss id="13" name="Super Hardość" />
+	
+	<miniboss id="14" name="Ultra Hardość" />
+	<miniboss id="15" name="Pazur" />
+</minibosses>

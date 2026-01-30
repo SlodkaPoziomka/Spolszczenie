@@ -1,0 +1,17 @@
+<playerforms>
+	<form id="0" name="Pawie Oczko" costume="5" tags="guppy" cache="flying tearflag" />
+	<form id="1" name="Władzca Much" costume="3" tags="fly" cache="flying" />
+	<form id="2" name="Zabawny Facet" costume="20" tags="mushroom" />
+	<form id="3" name="Płomienny" costume="21" tags="angel" cache="flying" />
+	<form id="4" name="Robert" costume="22" tags="bob" />
+	<form id="5" name="Ćpun" costume="23" tags="syringe" cache="speed damage" />
+	<form id="6" name="Tak MAcioro!?" costume="24" tags="mom" />
+	<form id="7" name="Bliźnięta Nierozdzielone" costume="25" tags="baby" cache="firedelay damage" />
+	<form id="8" name="Olbrzym" costume="26" tags="devil" cache="flying" />
+	<form id="9" name="O Cholera" costume="27" tags="poop" />
+	<form id="10" name="Robak Książkowy" costume="37" tags="book" />
+	<form id="11" name="Dojrzały" costume="38" />
+	<form id="12" name="Pajęcze Dziecię" costume="39" tags="spider" cache="familiars" />
+	<form id="13" name="Tupiący" />
+	<!-- <form id="14" name="Przelot" /> -->
+</playerforms>
