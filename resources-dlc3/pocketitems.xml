@@ -10,7 +10,7 @@
 	<card type="tarot" pickup="1" description="Niech nic nie stanie przed tobą" id="8" name="VII - Rydwan" announcer="371" mimiccharge="3" />
 	<card type="tarot" pickup="1" description="Weź kredyt czy coś" id="9" name="VIII - Sprawiedzliwość" announcer="349" mimiccharge="6" />
 	<card type="tarot" pickup="1" description="Zoba co życie ci da" id="10" name="IX - Pustelnik" greedmode="false" announcer="377" announcerdelay="60" mimiccharge="2" />
-	<card type="tarot" pickup="1" description="Automaty Sobata i Wtorek" id="11" name="X - Koło Fortuny" announcer="391" announcerdelay="60" mimiccharge="4" />
+	<card type="tarot" pickup="1" description="Automaty Sobota i Wtorek" id="11" name="X - Koło Fortuny" announcer="391" announcerdelay="60" mimiccharge="4" />
 	<card type="tarot" pickup="1" description="Moc Anfetamina" id="12" name="XI - Siła" announcer="365" mimiccharge="3" />
 	<card type="tarot" pickup="1" description="Obyś znalazł światło" id="13" name="XII - Wisielec" announcer="376" mimiccharge="3" />
 	<card type="tarot" pickup="1" description="Śmierć wrogom Ojczyzny" id="14" name="XIII - Śmierć" announcer="337" mimiccharge="3" />
