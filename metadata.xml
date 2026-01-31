@@ -1,8 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-	<name>chujek</name>
-	<directory>new mod</directory>
-	<description/>
-	<version>1.0</version>
-	<visibility/>
-</metadata>
+    <name>Straganowy Izak {Spolszczenie}</name>
+    <directory>straganowy izak {spolszczenie}</directory>
+    <id>2996716893</id>
+    <description>Najlepsze tłumaczenie De Bajdning of Izak
+Tłumaczenie tłumaczy:
+- Wszystkie przedmioty
+- Wszystkie drobiazgi
+- Wszystkie postacie
+- Wszystkie piętra
+- Wszystkie klątwy
+- Wszystkie interfejs
+i wszystkie inne rzeczy
 
+Komentarze Beta testerów:
+"Japierdole jakie gówno" ~ entuzjastyczny gracz
+"Nie skipuj kurwa tych bossów jebanych" ~ to akurat ja powiedziałem
+"Für Deutschland!" ~ Tusk
+"Dziecko mo.żna sprzedać" ~ Janusz Korwin Mikke
+"Tata, bo Janusz Koran Mekke mówił że za faraona były niższe podatki" ~ Typowy Sobek
+"Bo ja jestem diabeł" ~ Ten typ któremu matka weszła do piwnicy (mój cytat)
+
+Jeżeli jesteś prawdziwym polakiem patriotom to musisz zainstalować tom modyfikacje.
+Autor najlepszego moda pod słońcem "Bazarowy Issac".</description>
+    <version>4</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Tweaks"/>
+</metadata>
