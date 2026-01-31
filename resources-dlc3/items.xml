@@ -227,7 +227,7 @@
 	<passive description="Słodkie cierpienie" gfx="collectibles_225_gimpy.png" id="225" name="Kulawy" />
 	<passive blackhearts="2" description="Zdr. górne x3" gfx="collectibles_226_blacklotus.png" hearts="4" id="226" maxhearts="2" name="Czarny lotos" soulhearts="2" />
 	<passive coins="3" description="Oszczędności mojego życia" gfx="collectibles_227_piggybank.png" id="227" name="Skarbonka" />
-	<passive cache="firedelay tearcolor" description="Straszny strzał" gfx="collectibles_228_momsperfume.png" id="228" name="#MOMS_PERFUME_NAME" />
+	<passive cache="firedelay tearcolor" description="Straszny strzał" gfx="collectibles_228_momsperfume.png" id="228" name="Perfumy Maciory" />
 	<passive cache="all" description="Ładowany atak" gfx="collectibles_229_monstroslung.png" id="229" name="Płuco Kaszalota" />
 	<passive achievement="128" cache="damage speed" description="Zło górne + Obr. górne + straszny strzał" devilprice="2" gfx="collectibles_230_abaddon.png" id="230" name="Otchłań piekielna" />
 	<passive cache="tearcolor" description="Lepkie nożki..." gfx="collectibles_231_balloftar.png" id="231" name="Kulka z smoły" />
@@ -264,7 +264,7 @@
 	<passive cache="damage" blackhearts="2" description="Zło górne + twoi wrogowie zapłacą" gfx="collectibles_262_missingpage2.png" id="262" name="Brakująca 2 strona" />
 	
 	<!-- Afterbirth only, replaces unused id 263 -->
-	<active achievement="233" description="#CLEAR_RUNE_DESCRIPTION" gfx="Collectibles_263_BlankRune.png" id="263" name="Czysta runa" maxcharges="4" />
+	<active achievement="233" description="Mimiczna runa" gfx="Collectibles_263_BlankRune.png" id="263" name="Czysta runa" maxcharges="4" />
 	
 	<familiar description="Mucha zemsty" gfx="collectibles_264_smartfly.png" id="264" name="Mondra mószka" />
 	<familiar description="Niezniszczalny przyjaciel" gfx="collectibles_265_drybaby.png" id="265" name="Suchy dzidziuś" />
@@ -329,7 +329,7 @@
 	<active achievement="125" description="Nieokreślony" gfx="collectibles_324_Undefined.png" id="324" maxcharges="6" name="Nieokreślony" />
 	<active achievement="30" cache="familiars" description="Strać głowe" gfx="collectibles_325_scissors.png" id="325" maxcharges="4" name="Nożyczki" />
 	<active cooldown="31" description="Niezniszczalność jakimś kosztem" gfx="collectibles_326_breathoflife.png" id="326" maxcharges="90" name="Odech życia" chargetype="timed" />
-	<passive achievement="57" cooldown="150" description="Wybrano przeznaczenia" gfx="collectibles_327_thepolaroid.png" id="327" name="Polaroid" />
+	<passive achievement="57" cooldown="150" description="Taki aparat" gfx="collectibles_327_thepolaroid.png" id="327" name="Polaroid" />
 	<passive achievement="78" cache="damage" description="Wybrano przeznaczenia" gfx="collectibles_328_thenegative.png" id="328" name="Negatywny" />
 	<passive cache="all" description="Kontrolowany płacz" gfx="collectibles_329_theludovicotechnique.png" id="329" name="Maszyna Ludwika" special="true" />
 	<passive cache="firedelay damage tearcolor" description="Warszafka" gfx="collectibles_330_soymilk.png" id="330" name="Sojowe mleko" />
@@ -824,153 +824,153 @@
 	<trinket achievement="77" description="Lewa w góre" gfx="trinket_061_thelefthand.png" id="61" name="Lewa ręka" />
 	
 	<!-- Afterbirth Trinkets -->
-	<trinket description="#SHINY_ROCK_DESCRIPTION" gfx="trinket_062_ShinyRock.png" id="62" name="#SHINY_ROCK_NAME" />
-	<trinket description="#SAFETY_SCISSORS_DESCRIPTION" gfx="trinket_063_SafetyScissors.png" id="63" name="#SAFETY_SCISSORS_NAME" />
-	<trinket description="#RAINBOW_WORM_DESCRIPTION" gfx="trinket_064_RainbowWorm.png" id="64" name="#RAINBOW_WORM_NAME" cache="range shotspeed tearflag firedelay"/>
-	<trinket description="#TAPE_WORM_DESCRIPTION" gfx="trinket_065_TapeWorm.png" id="65" name="#TAPE_WORM_NAME" cache="range" />
-	<trinket description="#LAZY_WORM_DESCRIPTION" gfx="trinket_066_LazyWorm.png" id="66" name="#LAZY_WORM_NAME" cache="range shotspeed" />
-	<trinket achievement="196" description="#CRACKED_DICE_DESCRIPTION" gfx="trinket_067_CrackedDice.png" id="67" name="#CRACKED_DICE_NAME" />
-	<trinket description="#SUPER_MAGNET_DESCRIPTION" gfx="trinket_068_SuperMagnet.png" id="68" name="#SUPER_MAGNET_NAME" />
-	<trinket description="#FADED_POLAROID_DESCRIPTION" gfx="trinket_069_FadedPolaroid.png" id="69" name="#FADED_POLAROID_NAME" />
-	<trinket description="#LOUSE_DESCRIPTION" gfx="trinket_070_Louse.png" id="70" name="#LOUSE_NAME" />
-	<trinket description="#BOBS_BLADDER_DESCRIPTION" gfx="trinket_071_BobsBladder.png" id="71" name="#BOBS_BLADDER_NAME" />
-	<trinket description="#WATCH_BATTERY_DESCRIPTION" gfx="trinket_072_WatchBattery.png" id="72" name="#WATCH_BATTERY_NAME" />
-	<trinket description="#BLASTING_CAP_DESCRIPTION" gfx="trinket_073_BlastingCap.png" id="73" name="#BLASTING_CAP_NAME" />
-	<trinket achievement="230" description="#STUD_FINDER_DESCRIPTION" gfx="trinket_074_StudFinder.png" id="74" name="#STUD_FINDER_NAME" />
-	<trinket description="#ERROR_DESCRIPTION" gfx="trinket_075_Error.png" id="75" name="#ERROR_NAME" cache="all" />
-	<trinket achievement="229" description="#POKER_CHIP_DESCRIPTION" gfx="trinket_076_PokerChip.png" id="76" name="#POKER_CHIP_NAME" />
-	<trinket description="#BLISTER_DESCRIPTION" gfx="trinket_077_Blister.png" id="77" name="#BLISTER_NAME" cache="tearflag" />
-	<trinket description="#SECOND_HAND_DESCRIPTION" gfx="trinket_078_SecondHand.png" id="78" name="#SECOND_HAND_NAME" />
-	<trinket description="#ENDLESS_NAMELESS_DESCRIPTION" gfx="trinket_079_EndlessNameless.png" id="79" name="#ENDLESS_NAMELESS_NAME" />
-	<trinket achievement="197" description="#BLACK_FEATHER_DESCRIPTION" gfx="trinket_080_BlackFeather.png" id="80" name="#BLACK_FEATHER_NAME" cache="damage" />
-	<trinket achievement="185" description="#BLIND_RAGE_DESCRIPTION" gfx="trinket_081_BlindRage.png" id="81" name="#BLIND_RAGE_NAME" />
-	<trinket description="#GOLDEN_HORSE_SHOE_DESCRIPTION" gfx="trinket_082_GoldenHorseShoe.png" id="82" name="#GOLDEN_HORSE_SHOE_NAME" />
+	<trinket description="Świeci dla swoich braci" gfx="trinket_062_ShinyRock.png" id="62" name="Błyszczący głaz" />
+	<trinket description="Bezpieczne cięcie" gfx="trinket_063_SafetyScissors.png" id="63" name="Bezpieczne nożyki" />
+	<trinket description="Ła ła tak robi kosmita" gfx="trinket_064_RainbowWorm.png" id="64" name="Tęńczowy robak" cache="range shotspeed tearflag firedelay"/>
+	<trinket description="Pfffff" gfx="trinket_065_TapeWorm.png" id="65" name="Tasiemiec" cache="range" />
+	<trinket description="Pft cokolwiek to znaczy" gfx="trinket_066_LazyWorm.png" id="66" name="Leniwy robak" cache="range shotspeed" />
+	<trinket achievement="196" description="Czujesz sie przęklety... troche" gfx="trinket_067_CrackedDice.png" id="67" name="Peknięta kostka" />
+	<trinket description="To ciągnie" gfx="trinket_068_SuperMagnet.png" id="68" name="Super magnez" />
+	<trinket description="Czujesz sie blady" gfx="trinket_069_FadedPolaroid.png" id="69" name="Wyblakły aparat" />
+	<trinket description="Czy wesz czy weszcz nie wiem" gfx="trinket_070_Louse.png" id="70" name="Wysz" />
+	<trinket description="Straszne bómy" gfx="trinket_071_BobsBladder.png" id="71" name="Pęcherz Roberta" />
+	<trinket description="Małe ładowanie" gfx="trinket_072_WatchBattery.png" id="72" name="Patrz baterie" />
+	<trinket description="Puk! puk! kto tam?" gfx="trinket_073_BlastingCap.png" id="73" name="Strzałowa czapka" />
+	<trinket achievement="230" description="urządzenie służące do lokalizowania drewnianych belek" gfx="trinket_074_StudFinder.png" id="74" name="Wykrywacz elementów nośnych" />
+	<trinket description="Efektu nie znaleziono?" gfx="trinket_075_Error.png" id="75" name="Błąd" cache="all" />
+	<trinket achievement="229" description="To czas na zagiecie" gfx="trinket_076_PokerChip.png" id="76" name="Szton" />
+	<trinket description="Odbij do tyłu" gfx="trinket_077_Blister.png" id="77" name="Bąbel" cache="tearflag" />
+	<trinket description="Pzedłużenie czasu trawnia efektu" gfx="trinket_078_SecondHand.png" id="78" name="Druga ręka" />
+	<trinket description="Jestem zamknięty w petli..." gfx="trinket_079_EndlessNameless.png" id="79" name="Nieskończona nienazwana" />
+	<trinket achievement="197" description="Z ciemnością idze siła" gfx="trinket_080_BlackFeather.png" id="80" name="Czarne pióro" cache="damage" />
+	<trinket achievement="185" description="Ślepy do bicia" gfx="trinket_081_BlindRage.png" id="81" name="Ślepa złość" />
+	<trinket description="Szcześciarz?" gfx="trinket_082_GoldenHorseShoe.png" id="82" name="Złoty but konia" />
 	
-	<trinket achievement="249" description="#STORE_KEY_DESCRIPTION" gfx="trinket_083_storekey.png" id="83" name="#STORE_KEY_NAME" />
-	<trinket achievement="204" description="#RIB_OF_GREED_DESCRIPTION" gfx="trinket_084_ribofgreed.png" id="84" name="#RIB_OF_GREED_NAME" />
-	<trinket achievement="239" description="#KARMA_DESCRIPTION" gfx="trinket_085_karma.png" id="85" name="#KARMA_NAME" />
+	<trinket achievement="249" description="Sklepy są otwarte" gfx="trinket_083_storekey.png" id="83" name="Klucz do sklepu" />
+	<trinket achievement="204" description="Czujesz sie chciwym" gfx="trinket_084_ribofgreed.png" id="84" name="Żebro Chciwego" />
+	<trinket achievement="239" description="Dla konia np" gfx="trinket_085_karma.png" id="85" name="Pasza" />
 	
-	<trinket description="#LIL_LARVA_DESCRIPTION" gfx="Trinket_086_LilLarva.png" id="86" name="#LIL_LARVA_NAME" />
-	<trinket description="#MOMS_LOCKET_DESCRIPTION" gfx="Trinket_087_MomsLocket.png" id="87" name="#MOMS_LOCKET_NAME" />
-	<trinket description="#NO_DESCRIPTION" gfx="Trinket_088_NO.png" id="88" name="#NO_NAME" />
-	<trinket description="#CHILD_LEASH_DESCRIPTION" gfx="Trinket_089_ChildLeash.png" id="89" name="#CHILD_LEASH_NAME" />
-	<trinket description="#BROWN_CAP_DESCRIPTION" gfx="Trinket_090_BrownCap.png" id="90" name="#BROWN_CAP_NAME" />
+	<trinket description="Gówno sie rusza" gfx="Trinket_086_LilLarva.png" id="86" name="Mała larwa" />
+	<trinket description="Czujesz jej miłość" gfx="Trinket_087_MomsLocket.png" id="87" name="Zamek Maciory" />
+	<trinket description="Nigdy wiecej" gfx="Trinket_088_NO.png" id="88" name="Nie" />
+	<trinket description="Trzymaj swoich przyjaciół blisko" gfx="Trinket_089_ChildLeash.png" id="89" name="Dziecięca smycz" />
+	<trinket description="Pierton" gfx="Trinket_090_BrownCap.png" id="90" name="Brązowy kapelusz" />
 	
 	<!-- Afterbirth+ Trinkets -->
-	<trinket achievement="300" description="#MECONIUM_DESCRIPTION" gfx="Trinket_091_Meconium.png" id="91" name="#MECONIUM_NAME" />
-	<trinket achievement="336" description="#CRACKED_CROWN_DESCRIPTION" gfx="Trinket_092_CrackedCrown.png" id="92" name="#CRACKED_CROWN_NAME" cache="all" />
-	<trinket description="#USED_DIAPER_DESCRIPTION" gfx="Trinket_093_UsedDiaper.png" id="93" name="#USED_DIAPER_NAME" />
-	<trinket description="#FISH_TAIL_DESCRIPTION" gfx="Trinket_094_FishTail.png" id="94" name="#FISH_TAIL_NAME" />
-	<trinket description="#BLACK_TOOTH_DESCRIPTION" gfx="Trinket_095_BlackTooth.png" id="95" name="#BLACK_TOOTH_NAME" />
-	<trinket description="#OUROBOROS_WORM_DESCRIPTION" gfx="Trinket_096_OuroborosWorm.png" id="96" name="#OUROBOROS_WORM_NAME" cache="tearflag range firedelay" />
-	<trinket description="#TONSIL_DESCRIPTION" gfx="Trinket_097_Tonsil.png" id="97" name="#TONSIL_NAME" />
-	<trinket description="#NOSE_GOBLIN_DESCRIPTION" gfx="Trinket_098_NoseGoblin.png" id="98" name="#NOSE_GOBLIN_NAME" />
-	<trinket description="#SUPER_BALL_DESCRIPTION" gfx="Trinket_099_SuperBall.png" id="99" name="#SUPER_BALL_NAME" />
-	<trinket description="#VIBRANT_BULB_DESCRIPTION" gfx="Trinket_100_VibrantBulb.png" id="100" name="#VIBRANT_BULB_NAME" cache="all" />
-	<trinket description="#DIM_BULB_DESCRIPTION" gfx="Trinket_101_DimBulb.png" id="101" name="#DIM_BULB_NAME" cache="all" />
-	<trinket description="#FRAGMENTED_CARD_DESCRIPTION" gfx="Trinket_102_FragmentedCard.png" id="102" name="#FRAGMENTED_CARD_NAME" />
-	<trinket description="#EQUALITY_DESCRIPTION" gfx="Trinket_103_Equality.png" id="103" name="#EQUALITY_NAME" />
+	<trinket achievement="300" description="Eww" gfx="Trinket_091_Meconium.png" id="91" name="Smółka" />
+	<trinket achievement="336" description="Ulepsza staty" gfx="Trinket_092_CrackedCrown.png" id="92" name="Złamana korona" cache="all" />
+	<trinket description="Śmierdzisz" gfx="Trinket_093_UsedDiaper.png" id="93" name="Użyta pielucha" />
+	<trinket description="Mam nadzieje że nie ryby paw" gfx="Trinket_094_FishTail.png" id="94" name="Ogon ryby" />
+	<trinket description="Wygląda jak martwy" gfx="Trinket_095_BlackTooth.png" id="95" name="Czarny ząb" />
+	<trinket description="Jakieś pojebane nwm jak to prztłumaczyć" gfx="Trinket_096_OuroborosWorm.png" id="96" name="Uroboros robak" cache="tearflag range firedelay" />
+	<trinket description="hore..." gfx="Trinket_097_Tonsil.png" id="97" name="Migdałek" />
+	<trinket description="Wydaje sie magiczny..." gfx="Trinket_098_NoseGoblin.png" id="98" name="Goblin nosny" />
+	<trinket description="Odbicie!" gfx="Trinket_099_SuperBall.png" id="99" name="Super kula" />
+	<trinket description="Potrzebuje prądu" gfx="Trinket_100_VibrantBulb.png" id="100" name="Pełna żarówka" cache="all" />
+	<trinket description="Szkoda prądu" gfx="Trinket_101_DimBulb.png" id="101" name="Ciemna żarówka" cache="all" />
+	<trinket description="Podwójny ksieżyc" gfx="Trinket_102_FragmentedCard.png" id="102" name="Podzielona karta" />
+	<trinket description="Równa się" gfx="Trinket_103_Equality.png" id="103" name="Równość!" />
 	
-	<trinket description="#WISH_BONE_DESCRIPTION" gfx="trinket_104_wishbone.png" id="104" name="#WISH_BONE_NAME" />
-	<trinket description="#BAG_LUNCH_DESCRIPTION" gfx="trinket_105_baglunch.png" id="105" name="#BAG_LUNCH_NAME" />
-	<trinket description="#LOST_CORK_DESCRIPTION" gfx="trinket_106_lostcork.png" id="106" name="#LOST_CORK_NAME" />
-	<trinket achievement="302" description="#CROW_HEART_DESCRIPTION" gfx="trinket_107_crowheart.png" id="107" name="#CROW_HEART_NAME" />
-	<trinket description="#WALNUT_DESCRIPTION" gfx="trinket_108_walnut.png" id="108" name="#WALNUT_NAME" />
-	<trinket description="#DUCT_TAPE_DESCRIPTION" gfx="trinket_109_ducttape.png" id="109" name="#DUCT_TAPE_NAME" />
-	<trinket achievement="284" description="#SILVER_DOLLAR_DESCRIPTION" gfx="trinket_110_silverdollar.png" id="110" name="#SILVER_DOLLAR_NAME" />
-	<trinket achievement="287" description="#BLOODY_CROWN_DESCRIPTION" gfx="trinket_111_bloodycrown.png" id="111" name="#BLOODY_CROWN_NAME" />
-	<trinket description="#PAY_TO_WIN_DESCRIPTION" gfx="trinket_112_paytowin.png" id="112" name="#PAY_TO_WIN_NAME" />	
+	<trinket description="Powiedz życzenie" gfx="trinket_104_wishbone.png" id="104" name="Kość życzeniowa" />
+	<trinket description="Zastanawiam sie co tam jest" gfx="trinket_105_baglunch.png" id="105" name="Torba na drugie śniadanie" />
+	<trinket description="Bezkorkowy" gfx="trinket_106_lostcork.png" id="106" name="Stracone korek" />
+	<trinket achievement="302" description="Osusz mnie" gfx="trinket_107_crowheart.png" id="107" name="Krowie serce" />
+	<trinket description="Ciężki orzech do zgryzienia" gfx="trinket_108_walnut.png" id="108" name="Ściania orzechowa" />
+	<trinket description="Zablokowany!" gfx="trinket_109_ducttape.png" id="109" name="Taśma klejąca" />
+	<trinket achievement="284" description="Mam farta..." gfx="trinket_110_silverdollar.png" id="110" name="Srebny dolar" />
+	<trinket achievement="287" description="Klapie krwią..." gfx="trinket_111_bloodycrown.png" id="111" name="Krwista korona" />
+	<trinket description="Jak w clash royal" gfx="trinket_112_paytowin.png" id="112" name="Płać by wygrać" />	
 	
-	<trinket achievement="310" description="#LOCUST_OF_WAR_DESCRIPTION" gfx="trinket_113_LocustOfWrath.png" id="113" name="#LOCUST_OF_WAR_NAME" />	
-	<trinket achievement="311" description="#LOCUST_OF_PESTILENCE_DESCRIPTION" gfx="trinket_114_LocustOfPestilence.png" id="114" name="#LOCUST_OF_PESTILENCE_NAME" />	
-	<trinket achievement="312" description="#LOCUST_OF_FAMINE_DESCRIPTION" gfx="trinket_115_LocustOfFamine.png" id="115" name="#LOCUST_OF_FAMINE_NAME" />	
-	<trinket achievement="313" description="#LOCUST_OF_DEATH_DESCRIPTION" gfx="trinket_116_LocustOfDeath.png" id="116" name="#LOCUST_OF_DEATH_NAME" />	
-	<trinket achievement="314" description="#LOCUST_OF_CONQUEST_DESCRIPTION" gfx="trinket_117_LocustOfConquest.png" id="117" name="#LOCUST_OF_CONQUEST_NAME" />	
-	<trinket achievement="304" description="#BAT_WING_DESCRIPTION" gfx="trinket_118_BatWing.png" id="118" name="#BAT_WING_NAME" cache="flying" />	
-	<trinket achievement="301" description="#STEM_CELL_DESCRIPTION" gfx="trinket_119_StemCell.png" id="119" name="#STEM_CELL_NAME" />	
+	<trinket achievement="310" description="Przynosze Złość" gfx="trinket_113_LocustOfWrath.png" id="113" name="Szarańcza Wojny" />	
+	<trinket achievement="311" description="Przynosze Zaraze" gfx="trinket_114_LocustOfPestilence.png" id="114" name="Szarańcza Zarazy" />	
+	<trinket achievement="312" description="Przynosze Głód" gfx="trinket_115_LocustOfFamine.png" id="115" name="Szarańcza Głodu" />	
+	<trinket achievement="313" description="Przynosze Śmierć" gfx="trinket_116_LocustOfDeath.png" id="116" name="Szarańcza Śmierci" />	
+	<trinket achievement="314" description="Przynosze Podbój" gfx="trinket_117_LocustOfConquest.png" id="117" name="Szarańcza Podboju" />	
+	<trinket achievement="304" description="One rosną..." gfx="trinket_118_BatWing.png" id="118" name="Skrzydło nietoperza" cache="flying" />	
+	<trinket achievement="301" description="Regeneracja" gfx="trinket_119_StemCell.png" id="119" name="Rdzeń komórki" />	
 	
 	<!-- Booster Pack #1 -->
-	<trinket achievement="358" description="#HAIRPIN_DESCRIPTION" gfx="trinket_120_Hairpin.png" id="120" name="#HAIRPIN_NAME" />
-	<trinket achievement="359" description="#WOODEN_CROSS_DESCRIPTION" gfx="trinket_121_WoodenCross.png" id="121" name="#WOODEN_CROSS_NAME" />
-	<trinket achievement="360" description="#BUTTER_DESCRIPTION" gfx="trinket_122_Butter.png" id="122" name="#BUTTER_NAME" />
+	<trinket achievement="358" description="Niebezpieczne napiecie" gfx="trinket_120_Hairpin.png" id="120" name="Szpila" />
+	<trinket achievement="359" description="Moja wiara mnie ochroni" gfx="trinket_121_WoodenCross.png" id="121" name="Drewniany krzyż" />
+	<trinket achievement="360" description="Nie moge tego utrzymać" gfx="trinket_122_Butter.png" id="122" name="Masło" />
 	
 	<!-- Booster Pack #2 -->
-	<trinket achievement="370" description="#FILIGREE_FEATHER_DESCRIPTION" gfx="Trinket_123_FiligreeFeather.png" id="123" name="#FILIGREE_FEATHER_NAME" />
+	<trinket achievement="370" description="Anielskie łupy!" gfx="Trinket_123_FiligreeFeather.png" id="123" name="Ażurowe pióro" />
 	
 	<!-- Booster Pack #3 -->
-	<trinket achievement="375" description="#DOOR_STOP_DESCRIPTION" gfx="trinket_124_woodendoorstop.png" id="124" name="#DOOR_STOP_NAME" />
+	<trinket achievement="375" description="Trzymaj drzwi!" gfx="trinket_124_woodendoorstop.png" id="124" name="Zatrzymanie drzwi" />
 	
 	<!-- Booster Pack #4 -->
-	<trinket achievement="381" description="#EXTENSION_CORD_DESCRIPTION" gfx="trinket_125_Extensioncord.png" id="125" name="#EXTENSION_CORD_NAME" />
+	<trinket achievement="381" description="Naładowani przyjaciele" gfx="trinket_125_Extensioncord.png" id="125" name="Przedłużacz" />
 	
 	<!-- Booster Pack #5 -->
-	<trinket achievement="388" description="#ROTTEN_PENNY_DESCRIPTION" gfx="trinket_126_RottenPenny.png" id="126" name="#ROTTEN_PENNY_NAME" />
-	<trinket achievement="389" description="#BABYBENDER_DESCRIPTION" gfx="trinket_127_BabyBender.png" id="127" name="#BABYBENDER_NAME" />
-	<trinket achievement="399" description="#FINGER_BONE_DESCRIPTION" gfx="trinket_128_FingerBone.png" id="128" name="#FINGER_BONE_NAME" />
+	<trinket achievement="388" description="Bogactwo musz" gfx="trinket_126_RottenPenny.png" id="126" name="Zgniły grosik" />
+	<trinket achievement="389" description="Nakarm je magią!" gfx="trinket_127_BabyBender.png" id="127" name="Zgniatanie dzidziusia" />
+	<trinket achievement="399" description="Wygląda krucho" gfx="trinket_128_FingerBone.png" id="128" name="Kość paluszka" />
 	
 <!-- REPENTANCE BEGIN -->
-	<trinket	id="129"	gfx="trinket_129_Jawbreaker.png" name="#JAWBREAKER_NAME" description="#JAWBREAKER_DESCRIPTION" />
-	<trinket	id="130"	gfx="trinket_130_ChewedPen.png" name="#CHEWED_PEN_NAME" description="#CHEWED_PEN_DESCRIPTION" />
-	<trinket	id="131"	achievement="419" gfx="trinket_131_BlessedPenny.png" name="#BLESSED_PENNY_NAME" description="#BLESSED_PENNY_DESCRIPTION" />
-	<trinket	id="132"	gfx="trinket_132_BrokenSyringe.png" name="#BROKEN_SYRINGE_NAME" description="#BROKEN_SYRINGE_DESCRIPTION" />
-	<trinket	id="133"	gfx="trinket_133_ExplodedFirecracker.png" name="#SHORT_FUSE_NAME" description="#SHORT_FUSE_DESCRIPTION" />
-	<trinket	id="134"	gfx="trinket_134_GiantBean.png" name="#GIGANTE_BEAN_NAME" description="#GIGANTE_BEAN_DESCRIPTION" />
-	<trinket	id="135"	gfx="trinket_135_Lighter.png" name="#A_LIGHTER_NAME" description="#A_LIGHTER_DESCRIPTION" />
-	<trinket	id="136"	gfx="trinket_136_BrokenPadlock.png" name="#BROKEN_PADLOCK_NAME" description="#BROKEN_PADLOCK_DESCRIPTION" />
-	<trinket	id="137"	gfx="trinket_137_Myosotis.png" name="#MYOSOTIS_NAME" description="#MYOSOTIS_DESCRIPTION" />
-	<trinket	id="138"	achievement="458" gfx="trinket_138_M.png" name="#M_NAME" description="#M_DESCRIPTION" />
-	<trinket	id="139"	gfx="trinket_139_TeardropCharm.png" name="#TEARDROP_CHARM_NAME" description="#TEARDROP_CHARM_DESCRIPTION" />
-	<trinket	id="140"	gfx="trinket_140_AppleOfSodom.png" name="#APPLE_OF_SODOM_NAME" description="#APPLE_OF_SODOM_DESCRIPTION" />
-	<trinket	id="141"	achievement="408" gfx="trinket_141_SongOfTheSiren.png" name="#FORGOTTEN_LULLABY_NAME" description="#FORGOTTEN_LULLABY_DESCRIPTION" />
-	<trinket	id="142"	achievement="421" gfx="trinket_142_BethsFaith.png" name="#BETHS_FAITH_NAME" description="#BETHS_FAITH_DESCRIPTION" />
-	<trinket	id="143"	achievement="545" gfx="trinket_143_OldCapacitor.png" name="#OLD_CAPACITOR_NAME" description="#OLD_CAPACITOR_DESCRIPTION" />
-	<trinket	id="144"	gfx="trinket_144_BrainWorm.png" name="#BRAIN_WORM_NAME" description="#BRAIN_WORM_DESCRIPTION" cache="tearflag" />
-	<trinket	id="145"	gfx="trinket_145_Perfection.png" name="#PERFECTION_NAME" description="#PERFECTION_DESCRIPTION" cache="luck" />
-	<trinket	id="146"	achievement="454" gfx="trinket_146_DevilsCrown.png" name="#DEVILS_CROWN_NAME" description="#DEVILS_CROWN_DESCRIPTION" />
-	<trinket	id="147"	achievement="523" gfx="trinket_147_ChargedPenny.png" name="#CHARGED_PENNY_NAME" description="#CHARGED_PENNY_DESCRIPTION" />
-	<trinket	id="148"	gfx="trinket_148_FriendshipNecklace.png" name="#FRIENDSHIP_NECKLACE_NAME" description="#FRIENDSHIP_NECKLACE_DESCRIPTION" />
-	<trinket	id="149"	gfx="trinket_149_PanicButton.png" name="#PANIC_BUTTON_NAME" description="#PANIC_BUTTON_DESCRIPTION" />
-	<trinket	id="150"	achievement="493" gfx="trinket_150_BlueKey.png" name="#BLUE_KEY_NAME" description="#BLUE_KEY_DESCRIPTION" />
-	<trinket	id="151"	gfx="trinket_151_FlatFile.png" name="#FLAT_FILE_NAME" description="#FLAT_FILE_DESCRIPTION" />
-	<trinket	id="152"	achievement="406" gfx="trinket_152_TelescopeLens.png" name="#TELESCOPE_LENS_NAME" description="#TELESCOPE_LENS_DESCRIPTION" />
+	<trinket	id="129"	gfx="trinket_129_Jawbreaker.png" name="Szczekołamacz" description="Nie żuj tego" />
+	<trinket	id="130"	gfx="trinket_130_ChewedPen.png" name="przeżuty długopis" description="On wycieka" />
+	<trinket	id="131"	achievement="419" gfx="trinket_131_BlessedPenny.png" name="Błogosławiony grosik" description="Bogactwo czystości" />
+	<trinket	id="132"	gfx="trinket_132_BrokenSyringe.png" name="Zepsuta strzykawka" description="Tajemnicze lekarstwo" />
+	<trinket	id="133"	gfx="trinket_133_ExplodedFirecracker.png" name="Krótki lont" description="Szybsze wybuchy" />
+	<trinket	id="134"	gfx="trinket_134_GiantBean.png" name="Ogromna fasolka" description="Ogromny pierd" />
+	<trinket	id="135"	gfx="trinket_135_Lighter.png" name="Zapalniczka" description="Patrz jak świat płonie" />
+	<trinket	id="136"	gfx="trinket_136_BrokenPadlock.png" name="Zepsuta kłódka" description="Bomby są kluczami" />
+	<trinket	id="137"	gfx="trinket_137_Myosotis.png" name="Niezapominajki" description="Zapomnij mnie nie..." />
+	<trinket	id="138"	achievement="458" gfx="trinket_138_M.png" name="'M" description="CośsieP0psuł0iniebył0mniesłuchać" />
+	<trinket	id="139"	gfx="trinket_139_TeardropCharm.png" name="Uroda łzy" description="Mam farta" />
+	<trinket	id="140"	gfx="trinket_140_AppleOfSodom.png" name="Jabłko z Sodomy" description="Wydaje sie puste" />
+	<trinket	id="141"	achievement="408" gfx="trinket_141_SongOfTheSiren.png" name="Zapomniana kołysanka" description="Zaśpiewaj dla swoich przyjaciół" />
+	<trinket	id="142"	achievement="421" gfx="trinket_142_BethsFaith.png" name="Wiara Beaty" description="Moja wiara mnie ochroni" />
+	<trinket	id="143"	achievement="545" gfx="trinket_143_OldCapacitor.png" name="Stary kondersator" description="Wygłodniły prąd" />
+	<trinket	id="144"	gfx="trinket_144_BrainWorm.png" name="Mózgowy robak" description="Bam!" cache="tearflag" />
+	<trinket	id="145"	gfx="trinket_145_Perfection.png" name="Perfekcja" description="Szczeście okropnie w góre.Nie strać go!" cache="luck" />
+	<trinket	id="146"	achievement="454" gfx="trinket_146_DevilsCrown.png" name="Korona diabła" description="Jego specjalny klient" />
+	<trinket	id="147"	achievement="523" gfx="trinket_147_ChargedPenny.png" name="Naładowany grosik" description="Bogactwo Mocy" />
+	<trinket	id="148"	gfx="trinket_148_FriendshipNecklace.png" name="Łańcuszek przyjaźni" description="Zbierz kule" />
+	<trinket	id="149"	gfx="trinket_149_PanicButton.png" name="Paniczny guzik" description="Pchnij w celu nagłego wypadku" />
+	<trinket	id="150"	achievement="493" gfx="trinket_150_BlueKey.png" name="Niebkieski kluczyk" description="Patrz pomiędzy pokojami" />
+	<trinket	id="151"	gfx="trinket_151_FlatFile.png" name="Płaski pilnik" description="Nigdy wiecej kolców" />
+	<trinket	id="152"	achievement="406" gfx="trinket_152_TelescopeLens.png" name="Obiektyw teleskopowym" description="Szukaj gwiazd" />
 	
-	<trinket	id="153" achievement="548" gfx="trinket_153_MomsLock.png" name="#MOMS_LOCK_NAME" description="#MOMS_LOCK_DESCRIPTION" />
-	<trinket	id="154" achievement="549" gfx="trinket_154_DiceBag.png" name="#DICE_BAG_NAME" description="#DICE_BAG_DESCRIPTION" />
-	<trinket	id="155" achievement="550" gfx="trinket_155_HolyCrown.png" name="#HOLY_CROWN_NAME" description="#HOLY_CROWN_DESCRIPTION" />
-	<trinket	id="156" achievement="551" gfx="trinket_156_MothersKiss.png" name="#MOTHERS_KISS_NAME" description="#MOTHERS_KISS_DESCRIPTION" />
-	<trinket	id="157" achievement="565" gfx="trinket_157_TornCard.png" name="#TORN_CARD_NAME" description="#TORN_CARD_DESCRIPTION" />
-	<trinket	id="158" achievement="564" gfx="trinket_158_TornPocket.png" name="#TORN_POCKET_NAME" description="#TORN_POCKET_DESCRIPTION" />
-	<trinket	id="159" achievement="552" gfx="trinket_159_GildedKey.png" name="#GILDED_KEY_NAME" description="#GILDED_KEY_DESCRIPTION" cache="pickupvision" />
-	<trinket	id="160" achievement="553" gfx="trinket_160_LuckySack.png" name="#LUCKY_SACK_NAME" description="#LUCKY_SACK_DESCRIPTION" />
-	<trinket	id="161" achievement="562" gfx="trinket_161_WickedCrown.png" name="#WICKED_CROWN_NAME" description="#WICKED_CROWN_DESCRIPTION" />
-	<trinket	id="162" achievement="563" gfx="trinket_162_AzazelsStump.png" name="#AZAZELS_STUMP_NAME" description="#AZAZELS_STUMP_DESCRIPTION" cache="all" addcostumeonpickup="false" persistent="true" />
-	<trinket	id="163" achievement="556" gfx="trinket_163_DingleBerry.png" name="#DINGLE_BERRY_NAME" description="#DINGLE_BERRY_DESCRIPTION" />
-	<trinket	id="164" achievement="557" gfx="trinket_164_RingCap.png" name="#RING_CAP_NAME" description="#RING_CAP_DESCRIPTION" />
-	<trinket	id="165" achievement="566" gfx="trinket_165_NuhUh.png" name="#NUH_UH_NAME" description="#NUH_UH_DESCRIPTION" />
-	<trinket	id="166" achievement="567" gfx="trinket_166_ModelingClay.png" name="#MODELING_CLAY_NAME" description="#MODELING_CLAY_DESCRIPTION" />
-	<trinket	id="167" achievement="576" gfx="trinket_167_PolishedBone.png" name="#POLISHED_BONE_NAME" description="#POLISHED_BONE_DESCRIPTION" />
-	<trinket	id="168" achievement="577" gfx="trinket_168_HollowHeart.png" name="#HOLLOW_HEART_NAME" description="#HOLLOW_HEART_DESCRIPTION" />
-	<trinket	id="169" achievement="568" gfx="trinket_169_KidsDrawing.png" name="#KIDS_DRAWING_NAME" description="#KIDS_DRAWING_DESCRIPTION" />
-	<trinket	id="170" achievement="569" gfx="trinket_170_CrystalKey.png" name="#CRYSTAL_KEY_NAME" description="#CRYSTAL_KEY_DESCRIPTION" />
-	<trinket	id="171" achievement="572" gfx="trinket_171_KeepersBargain.png" name="#KEEPERS_BARGAIN_NAME" description="#KEEPERS_BARGAIN_DESCRIPTION" />
-	<trinket	id="172" achievement="573" gfx="trinket_172_CursedPenny.png" name="#CURSED_PENNY_NAME" description="#CURSED_PENNY_DESCRIPTION" />
-	<trinket	id="173" achievement="554" gfx="trinket_173_YourSoul.png" name="#YOUR_SOUL_NAME" description="#YOUR_SOUL_DESCRIPTION" />
-	<trinket	id="174" achievement="555" gfx="trinket_174_NumberMagnet.png" name="#NUMBER_MAGNET_NAME" description="#NUMBER_MAGNET_DESCRIPTION" />
-	<trinket	id="175" achievement="558" gfx="trinket_175_StrangeKey.png" name="#STRANGE_KEY_NAME" description="#STRANGE_KEY_DESCRIPTION" />
-	<trinket	id="176" achievement="559" gfx="trinket_176_LilClot.png" name="#LIL_CLOT_NAME" description="#LIL_CLOT_DESCRIPTION" />
-	<trinket	id="177" achievement="560" gfx="trinket_177_TemporaryTattoo.png" name="#TEMPORARY_TATTOO_NAME" description="#TEMPORARY_TATTOO_DESCRIPTION" />
-	<trinket	id="178" achievement="561" gfx="trinket_178_SwallowedM80.png" name="#SWALLOWED_M80_NAME" description="#SWALLOWED_M80_DESCRIPTION" />
-	<trinket	id="179" achievement="580" gfx="trinket_179_RCRemote.png" name="#RC_REMOTE_NAME" description="#RC_REMOTE_DESCRIPTION" />
-	<trinket	id="180" achievement="581" gfx="trinket_180_FoundSoul.png" name="#FOUND_SOUL_NAME" description="#FOUND_SOUL_DESCRIPTION" persistent="true" cache="familiars" />
-	<trinket	id="181" achievement="578" gfx="trinket_181_ExpansionPack.png" name="#EXPANSION_PACK_NAME" description="#EXPANSION_PACK_DESCRIPTION" />
-	<trinket	id="182" achievement="579" gfx="trinket_182_BethsEssence.png" name="#BETHS_ESSENCE_NAME" description="#BETHS_ESSENCE_DESCRIPTION" />
-	<trinket	id="183" achievement="570" gfx="trinket_183_TheTwins.png" name="#THE_TWINS_NAME" description="#THE_TWINS_DESCRIPTION" />
-	<trinket	id="184" achievement="571" gfx="trinket_184_AdoptionPapers.png" name="#ADOPTION_PAPERS_NAME" description="#ADOPTION_PAPERS_DESCRIPTION" />
-	<trinket	id="185" achievement="574" gfx="trinket_185_CricketLeg.png" name="#CRICKET_LEG_NAME" description="#CRICKET_LEG_DESCRIPTION" />
-	<trinket	id="186" achievement="575" gfx="trinket_186_ApollyonsBestFriend.png" name="#APOLLYONS_BEST_FRIEND_NAME" description="#APOLLYONS_BEST_FRIEND_DESCRIPTION" cache="familiars" />
-	<trinket	id="187" achievement="521" gfx="trinket_187_BrokenGlasses.png" name="#BROKEN_GLASSES_NAME" description="#BROKEN_GLASSES_DESCRIPTION" />
-	<trinket	id="188" achievement="522" gfx="trinket_188_IceCube.png" name="#ICE_CUBE_NAME" description="#ICE_CUBE_DESCRIPTION" />
-	<trinket	id="189" achievement="518" gfx="trinket_189_SigilOfBaphomet.png" name="#SIGIL_OF_BAPHOMET_NAME" description="#SIGIL_OF_BAPHOMET_DESCRIPTION" />
+	<trinket	id="153" achievement="548" gfx="trinket_153_MomsLock.png" name="Zamek Maciory" description="Kawałek jej miłości" />
+	<trinket	id="154" achievement="549" gfx="trinket_154_DiceBag.png" name="Torba na kostki" description="Dodatkowy rzut" />
+	<trinket	id="155" achievement="550" gfx="trinket_155_HolyCrown.png" name="Święta korona" description="Ić drogą świętą" />
+	<trinket	id="156" achievement="551" gfx="trinket_156_MothersKiss.png" name="Pocałunek Maciory" description="Zdr. w góre" />
+	<trinket	id="157" achievement="565" gfx="trinket_157_TornCard.png" name="Przedarta karta" description="Śmierć czeka" />
+	<trinket	id="158" achievement="564" gfx="trinket_158_TornPocket.png" name="Przedarta kieszeń" description="Dziura w twojej kieszeni" />
+	<trinket	id="159" achievement="552" gfx="trinket_159_GildedKey.png" name="Pozłacany klucz" description="Mniej znaczy wiecej" cache="pickupvision" />
+	<trinket	id="160" achievement="553" gfx="trinket_160_LuckySack.png" name="Szcześliwy worek" description="Darmowy luksus!" />
+	<trinket	id="161" achievement="562" gfx="trinket_161_WickedCrown.png" name="Ohydna korona" description="Ić drogą ohydy" />
+	<trinket	id="162" achievement="563" gfx="trinket_162_AzazelsStump.png" name="Kikut Umacniacza" description="Wypuść swoje wewnetrze demony" cache="all" addcostumeonpickup="false" persistent="true" />
+	<trinket	id="163" achievement="556" gfx="trinket_163_DingleBerry.png" name="Jagoda zatoki" description="Opsik!" />
+	<trinket	id="164" achievement="557" gfx="trinket_164_RingCap.png" name="Pierścień czapki" description="Podwójne jebniecie!" />
+	<trinket	id="165" achievement="566" gfx="trinket_165_NuhUh.png" name="Nie e" description="Nie chce" />
+	<trinket	id="166" achievement="567" gfx="trinket_166_ModelingClay.png" name="Lepienie gliny" description="???" />
+	<trinket	id="167" achievement="576" gfx="trinket_167_PolishedBone.png" name="Błyszcząca kość" description="Przyjaciele z góry" />
+	<trinket	id="168" achievement="577" gfx="trinket_168_HollowHeart.png" name="Puste serce" description="Bardzo kruche błogosławieństwo" />
+	<trinket	id="169" achievement="568" gfx="trinket_169_KidsDrawing.png" name="Rysunki dzidziusiów" description="Wygląda znajomo" />
+	<trinket	id="170" achievement="569" gfx="trinket_170_CrystalKey.png" name="Kryształowy klucz" description="Zadzwoń na drugą strone" />
+	<trinket	id="171" achievement="572" gfx="trinket_171_KeepersBargain.png" name="Okazja Dozorcy" description="Pieniądze gadają" />
+	<trinket	id="172" achievement="573" gfx="trinket_172_CursedPenny.png" name="Przęklety grosik" description="Bogactwo nędzy" />
+	<trinket	id="173" achievement="554" gfx="trinket_173_YourSoul.png" name="Twoja dusza" description="Daj mi ją" />
+	<trinket	id="174" achievement="555" gfx="trinket_174_NumberMagnet.png" name="Magnesowy numerek" description="6" />
+	<trinket	id="175" achievement="558" gfx="trinket_175_StrangeKey.png" name="Dziwny klucz" description="Co może on otworzyć" />
+	<trinket	id="176" achievement="559" gfx="trinket_176_LilClot.png" name="Malutki Krzepniak" description="Zajebista nazwa cn?" />
+	<trinket	id="177" achievement="560" gfx="trinket_177_TemporaryTattoo.png" name="Tymczasowy tatuaż" description="Czujesz sie odważny" />
+	<trinket	id="178" achievement="561" gfx="trinket_178_SwallowedM80.png" name="Połknieta m80" description="Jeb!" />
+	<trinket	id="179" achievement="580" gfx="trinket_179_RCRemote.png" name="Pilot zdalnego sterowania" description="Kontrolowanie dzieci!" />
+	<trinket	id="180" achievement="581" gfx="trinket_180_FoundSoul.png" name="Znaleziona dusza" description="W końcu!" persistent="true" cache="familiars" />
+	<trinket	id="181" achievement="578" gfx="trinket_181_ExpansionPack.png" name="Pakiet rozszerzeń" description="Zabawny dodatek" />
+	<trinket	id="182" achievement="579" gfx="trinket_182_BethsEssence.png" name="Treść Beaty" description="Wynagrodzenie cnoty" />
+	<trinket	id="183" achievement="570" gfx="trinket_183_TheTwins.png" name="Bliźniaki" description="Widze podwójnie" />
+	<trinket	id="184" achievement="571" gfx="trinket_184_AdoptionPapers.png" name="Papiery adopcyjne" description="Daj im dom" />
+	<trinket	id="185" achievement="574" gfx="trinket_185_CricketLeg.png" name="Noga świerszcza" description="Zainfekowany" />
+	<trinket	id="186" achievement="575" gfx="trinket_186_ApollyonsBestFriend.png" name="Najlepszy przyjaciel Niszczyciela" description="Atakuj ziomuś" cache="familiars" />
+	<trinket	id="187" achievement="521" gfx="trinket_187_BrokenGlasses.png" name="Zniszczone okulary" description="Podwójna wizja?" />
+	<trinket	id="188" achievement="522" gfx="trinket_188_IceCube.png" name="Kostka lodu" description="Zostań mroźny" />
+	<trinket	id="189" achievement="518" gfx="trinket_189_SigilOfBaphomet.png" name="Pieczęć Bafometa" description="Libacja w śmierci" />
 <!-- REPENTANCE END -->
 	
 	<null id="41" name="huge growth" cache="damage range size" />
