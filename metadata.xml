@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
     <name>Straganowy Izak {Spolszczenie}</name>
-    <directory>straganowy izak {spolszczenie}</directory>
-    <id>2996716893</id>
+    <directory>straganowy izak</directory>
+    <id>3654935284</id>
     <description>Najlepsze tłumaczenie De Bajdning of Izak
 Tłumaczenie tłumaczy:
 - Wszystkie przedmioty
@@ -14,18 +14,23 @@ Tłumaczenie tłumaczy:
 i wszystkie inne rzeczy
 
 Komentarze Beta testerów:
-"Japierdole jakie gówno" ~ entuzjastyczny gracz
-"Nie skipuj kurwa tych bossów jebanych" ~ to akurat ja powiedziałem
-"Für Deutschland!" ~ Tusk
-"Dziecko mo.żna sprzedać" ~ Janusz Korwin Mikke
-"Tata, bo Janusz Koran Mekke mówił że za faraona były niższe podatki" ~ Typowy Sobek
-"Bo ja jestem diabeł" ~ Ten typ któremu matka weszła do piwnicy (mój cytat)
+&quot;Japierdole jakie gówno&quot; ~ entuzjastyczny gracz
+&quot;Nie skipuj kurwa tych bossów jebanych&quot; ~ to akurat ja powiedziałem
+&quot;Für Deutschland!&quot; ~ Tusk
+&quot;Dziecko mo.żna sprzedać&quot; ~ Janusz Korwin Mikke
+&quot;Tata, bo Janusz Koran Mekke mówił że za faraona były niższe podatki&quot; ~ Typowy Sobek
+&quot;Bo ja jestem diabeł&quot; ~ Ten typ któremu matka weszła do piwnicy (mój cytat)
 
-Jeżeli jesteś prawdziwym polakiem patriotom to musisz zainstalować tom modyfikacje.
-Autor najlepszego moda pod słońcem "Bazarowy Issac".</description>
-    <version>67</version>
+Jeżeli jesteś prawdziwym polakiem patriotom to musisz zainstalować tom modyfikacje. 
+Autor najlepszego moda pod słońcem &quot;Bazarowy Issac&quot;.</description>
+    <version>1.4</version>
     <visibility>Public</visibility>
-    <tag id="Lua"/>
     <tag id="Items"/>
-    <tag id="Tweaks"/>
+    <tag id="Active Items"/>
+    <tag id="Trinkets"/>
+    <tag id="Pills"/>
+    <tag id="Cards"/>
+    <tag id="Player Characters"/>
+    <tag id="Floors"/>
+    <tag id="Bosses"/>
 </metadata>
